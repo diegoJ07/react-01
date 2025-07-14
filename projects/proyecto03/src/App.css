@@ -1,0 +1,28 @@
+.App {
+  color: #fff;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.card-article {
+  border: #b3afafab 2px solid;
+  box-shadow: 3px 5px 3px  #b3afafab;
+  text-align: left;
+  margin: 8px;
+}
+
+.container {
+  margin: 10px;
+}
+
+.card-name {
+  color: #b3afafab;
+}
+
+.card-red {
+  color: red;
+}
+
+.card-green {
+  color: green;
+}
